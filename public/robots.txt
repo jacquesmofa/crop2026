@@ -1,0 +1,9 @@
+# robots.txt for CROP Conference 2026
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cropconference2026.org/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
