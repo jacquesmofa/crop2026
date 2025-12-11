@@ -176,7 +176,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-gray-400 text-sm">
-                © 2025 KWETU CONNECT PTY LTD & Livelihood Development International Initiatives (LDII). All rights reserved.
+                © 2025 KWETU CONNECT PTY LTD & Livelihood Development International Initiatives (LDII). All rights reserved MJ.
               </p>
               <div className="flex items-center justify-center md:justify-start space-x-4 mt-2">
                 <button
