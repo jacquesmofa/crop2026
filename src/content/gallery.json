@@ -1,0 +1,136 @@
+{
+  "albums": [
+    {
+      "slug": "culture",
+      "title": "Culture & Community",
+      "description": "Heritage, climate action and community resilience: the spirit of CROP 2026.",
+      "alt": "CROP 2026 culture and community",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=diverse%20group%20of%20african%20indigenous%20cultural%20leaders%20and%20youth%20changemakers%20collaborating%20at%20modern%20international%20conference%20with%20warm%20lighting%20professional%20photography%20ultra%20high%20definition&width=1920&height=1080&seq=cta1&orientation=landscape",
+          "alt": "Diverse group of african indigenous cultural leaders and youth changemakers collaborating at modern international conference"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=stunning%20ultra%20high%20definition%20dramatic%20sunset%20view%20of%20sydney%20olympic%20park%20the%20dome%20venue%20with%20deep%20orange%20and%20purple%20sky%20golden%20hour%20lighting%20warm%20atmospheric%20colors%20professional%20architectural%20photography%20vibrant%20moody%20atmosphere%20dark%20tones&width=1920&height=1080&seq=countdownsunset1&orientation=landscape",
+          "alt": "Sunset view of sydney olympic park the dome venue"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=stunning%20aerial%20view%20of%20sydney%20opera%20house%20and%20harbour%20bridge%20at%20golden%20hour%20with%20vibrant%20blue%20waters%20and%20clear%20sky%20ultra%20high%20definition%20professional%20photography&width=1920&height=1080&seq=hero1&orientation=landscape",
+          "alt": "Aerial view of sydney opera house and harbour bridge at golden hour with vibrant blue"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=Diverse%20global%20cultures%20meeting%20nature%20and%20sustainability%2C%20Indigenous%20art%20motifs%20blending%20with%20modern%20environmental%20symbols%2C%20aerial%20view%20of%20Sydney%20Opera%20House%20and%20harbor%2C%20cultural%20diversity%20celebration%20with%20earth%20tones%2C%20professional%20conference%20atmosphere%2C%20cinematic%20lighting%2C%20ultra%20high%20quality%2C%20minimalist%20composition%20with%20natural%20elements&width=1920&height=1080&seq=hero-crop-2026&orientation=landscape",
+          "alt": "Diverse global cultures meeting nature and sustainability"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=beautiful%20panoramic%20view%20of%20sydney%20skyline%20at%20sunset%20with%20modern%20buildings%20and%20natural%20landscape%20ultra%20high%20definition%20professional%20photography&width=1920&height=1080&seq=hero3&orientation=landscape",
+          "alt": "Panoramic view of sydney skyline at sunset with modern buildings and natural landscape"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20olympic%20park%20aerial%20view%20showing%20green%20spaces%20modern%20facilities%20and%20surrounding%20areas%20during%20daytime%20ultra%20high%20definition%20professional%20photography&width=1920&height=1080&seq=hero4&orientation=landscape",
+          "alt": "Sydney olympic park aerial view showing green spaces modern facilities and surrounding areas during daytime"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=diverse%20group%20of%20indigenous%20and%20cultural%20leaders%20from%20around%20the%20world%20collaborating%20together%20in%20modern%20conference%20setting%2C%20multicultural%20unity%2C%20professional%20photography%2C%20warm%20natural%20lighting%2C%20ultra%20high%20definition&width=1920&height=800&seq=vision-hero&orientation=landscape",
+          "alt": "Diverse group of indigenous and cultural leaders from around the world collaborating together in modern conference"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=Modern%20conference%20hall%20interior%20with%20professional%20stage%20setup%2C%20rows%20of%20elegant%20seating%2C%20sophisticated%20lighting%2C%20contemporary%20architecture%2C%20business%20event%20venue%2C%20high-end%20corporate%20meeting%20space%2C%20professional%20photography%2C%20warm%20ambient%20lighting&width=1920&height=800&seq=programme-hero-bg&orientation=landscape",
+          "alt": "Modern conference hall interior with professional stage setup"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=successful%20international%20conference%20outcomes%20with%20diverse%20participants%20celebrating%20achievements%2C%20signing%20documents%2C%20collaborative%20success%2C%20professional%20photography%2C%20warm%20lighting%2C%20ultra%20high%20definition&width=1920&height=800&seq=outcomes-hero&orientation=landscape",
+          "alt": "Successful international conference outcomes with diverse participants celebrating achievements"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=professional%20diverse%20business%20partnership%20handshake%20international%20collaboration%20modern%20conference%20setting%20with%20cultural%20symbols%20sustainability%20elements%20warm%20professional%20lighting%20ultra%20high%20definition%204k%20photography&width=1920&height=1080&seq=partnership-hero-bg&orientation=landscape",
+          "alt": "Diverse business partnership handshake international collaboration modern conference setting with cultural symbols sustainability elements warm"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=Professional%20business%20partnership%20handshake%2C%20diverse%20corporate%20collaboration%2C%20modern%20office%20setting%2C%20sustainability%20and%20cultural%20symbols%20in%20background%2C%20professional%20photography%2C%20warm%20lighting%2C%20trust%20and%20cooperation%20theme&width=800&height=1000&seq=partnership-collaboration&orientation=portrait",
+          "alt": "Business partnership handshake"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=diverse%20african%20community%20members%20connecting%20and%20supporting%20each%20other%20warm%20caring%20atmosphere%20cultural%20celebration%20professional%20photography%20ultra%20high%20definition&width=1920&height=1080&seq=kwetuhero&orientation=landscape",
+          "alt": "Diverse african community members connecting and supporting each other warm caring atmosphere cultural celebration"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=african%20indigenous%20community%20care%20workers%20supporting%20elderly%20and%20families%20with%20compassion%20cultural%20respect%20professional%20photography%20ultra%20high%20definition&width=800&height=600&seq=kwetucare&orientation=landscape",
+          "alt": "African indigenous community care workers supporting elderly and families with compassion cultural respect"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=community%20workshop%20with%20diverse%20participants%20learning%20traditional%20crafts%20and%20skills%20intergenerational%20knowledge%20transfer%20professional%20photography%20ultra%20high%20definition%20warm%20lighting&width=800&height=600&seq=kwetu4&orientation=landscape",
+          "alt": "Community workshop with diverse participants learning traditional crafts and skills intergenerational knowledge transfer"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=international%20conference%20setting%20with%20diverse%20delegates%20networking%20and%20collaborating%20modern%20venue%20professional%20photography%20ultra%20high%20definition&width=1920&height=1080&seq=kwetu5&orientation=landscape",
+          "alt": "International conference setting with diverse delegates networking and collaborating modern venue"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=african%20community%20development%20sustainable%20livelihoods%20empowerment%20cultural%20preservation%20international%20cooperation%20professional%20photography%20ultra%20high%20definition&width=1920&height=1080&seq=ldiihero&orientation=landscape",
+          "alt": "African community development sustainable livelihoods empowerment cultural preservation international cooperation"
+        }
+      ]
+    },
+    {
+      "slug": "sydney",
+      "title": "Sydney & the Venue",
+      "description": "The host city and conference setting, 6–8 November 2026.",
+      "alt": "Sydney and the CROP 2026 venue",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20opera%20house%20iconic%20view%20at%20sunset%20with%20harbour%20bridge%2C%20vibrant%20colors%2C%20professional%20travel%20photography%2C%20ultra%20high%20definition&width=1200&height=800&seq=sydney1&orientation=landscape",
+          "alt": "Sydney opera house iconic view at sunset with harbour bridge"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20harbour%20waterfront%20with%20modern%20skyline%2C%20beautiful%20blue%20waters%2C%20boats%2C%20sunny%20day%2C%20professional%20photography%2C%20ultra%20high%20definition&width=1200&height=800&seq=sydney2&orientation=landscape",
+          "alt": "Sydney harbour waterfront with modern skyline"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=bondi%20beach%20sydney%20with%20golden%20sand%2C%20turquoise%20waters%2C%20coastal%20lifestyle%2C%20professional%20travel%20photography%2C%20ultra%20high%20definition&width=1200&height=800&seq=sydney3&orientation=landscape",
+          "alt": "Bondi beach sydney with golden sand"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20city%20skyline%20at%20dusk%20with%20illuminated%20buildings%2C%20darling%20harbour%2C%20vibrant%20urban%20scene%2C%20professional%20photography%2C%20ultra%20high%20definition&width=1200&height=800&seq=sydney4&orientation=landscape",
+          "alt": "Sydney city skyline at dusk with illuminated buildings"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=the%20dome%20sydney%20olympic%20park%20exterior%20modern%20architecture%2C%20large%20scale%20venue%2C%20professional%20architectural%20photography%2C%20clear%20blue%20sky%2C%20ultra%20high%20definition&width=1920&height=800&seq=venue-hero&orientation=landscape",
+          "alt": "The dome sydney olympic park exterior modern architecture"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=the%20dome%20sydney%20olympic%20park%20interior%20large%20conference%20hall%2C%20modern%20facilities%2C%20professional%20event%20space%2C%20high%20ceilings%2C%20ultra%20high%20definition%20architectural%20photography&width=800&height=1000&seq=venue-interior&orientation=portrait",
+          "alt": "The dome sydney olympic park interior large conference hall"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20olympic%20park%20aerial%20panoramic%20view%2C%20the%20dome%20venue%2C%20modern%20facilities%2C%20green%20spaces%2C%20professional%20architectural%20photography%2C%20clear%20day%2C%20ultra%20high%20definition&width=1600&height=900&seq=venue-aerial&orientation=landscape",
+          "alt": "Sydney olympic park aerial panoramic view"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20commercial%20airplane%20flying%20above%20clouds%20at%20sunset%2C%20professional%20aviation%20photography%2C%20beautiful%20sky%20colors%2C%20travel%20and%20tourism%20concept%2C%20ultra%20high%20definition&width=600&height=400&seq=flights-discount&orientation=landscape",
+          "alt": "Modern commercial airplane flying above clouds at sunset"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=luxury%20hotel%20room%20interior%20with%20modern%20design%2C%20comfortable%20bed%2C%20city%20view%2C%20professional%20hospitality%20photography%2C%20warm%20lighting%2C%20five%20star%20accommodation%2C%20ultra%20high%20definition&width=600&height=400&seq=hotels-discount&orientation=landscape",
+          "alt": "Luxury hotel room interior with modern design"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20sydney%20train%20at%20station%2C%20clean%20public%20transport%2C%20professional%20photography%2C%20urban%20mobility%2C%20comfortable%20travel%2C%20ultra%20high%20definition&width=600&height=400&seq=transport-discount&orientation=landscape",
+          "alt": "Modern sydney train at station"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20opera%20house%20close%20up%20architectural%20detail%2C%20iconic%20white%20sails%2C%20blue%20sky%2C%20professional%20photography%2C%20ultra%20high%20definition&width=600&height=400&seq=opera-house&orientation=landscape",
+          "alt": "Sydney opera house close up architectural detail"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=sydney%20harbour%20bridge%20iconic%20view%2C%20steel%20arch%20bridge%2C%20boats%20in%20harbour%2C%20professional%20travel%20photography%2C%20ultra%20high%20definition&width=600&height=400&seq=harbour-bridge&orientation=landscape",
+          "alt": "Sydney harbour bridge iconic view"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=royal%20botanic%20gardens%20sydney%20lush%20greenery%2C%20peaceful%20walkways%2C%20harbour%20views%2C%20professional%20photography%2C%20ultra%20high%20definition&width=600&height=400&seq=botanic-gardens&orientation=landscape",
+          "alt": "Royal botanic gardens sydney lush greenery"
+        }
+      ]
+    }
+  ]
+}

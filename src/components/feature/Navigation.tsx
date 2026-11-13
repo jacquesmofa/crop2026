@@ -21,6 +21,7 @@ export default function Navigation() {
     { path: '/programme', label: 'Programme' },
     { path: '/outcomes', label: 'Outcomes' },
     { path: '/venue', label: 'Venue & Logistics' },
+    { path: '/gallery', label: 'Gallery' },
     { path: '/partnership', label: 'Partnership' },
   ];
 

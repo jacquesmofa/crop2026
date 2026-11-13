@@ -15,6 +15,7 @@ const PrivacyPolicy = lazy(() => import('../pages/privacy-policy/page'));
 const TermsOfUse = lazy(() => import('../pages/terms-of-use/page'));
 const DisputeResolution = lazy(() => import('../pages/dispute-resolution/page'));
 const NotFound = lazy(() => import('../pages/NotFound'));
+const Gallery = lazy(() => import('../pages/gallery/page'));
 
 const routes: RouteObject[] = [
   {
@@ -40,6 +41,10 @@ const routes: RouteObject[] = [
   {
     path: '/venue',
     element: <Venue />,
+  },
+  {
+    path: '/gallery',
+    element: <Gallery />,
   },
   {
     path: '/partnership',
